@@ -4,4 +4,5 @@
 2. presently running on local machine, since it auto opens  .ipynb
 3. looks like this needs python3
 4. @24:09
-5. @52.45
+5. iex cloud docs: https://iexcloud.io/docs/api/
+6. @52.45
